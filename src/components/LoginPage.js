@@ -136,7 +136,7 @@ class Page extends Component {
 
   render() {
     if (this.state.nowChange) {
-      return (<Redirect to="/header" />)
+      return (<Redirect to="/header/dashboard" />)
     }
     return (
       <div className="page_login">

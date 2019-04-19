@@ -461,7 +461,7 @@ class BigCalendar extends Component {
           <div className="CalendarStyle">
             <div className="name">Events Page</div>
             <Calendar
-              
+              popup
               localizer={localizer}
               defaultDate={new Date()}
               events={this.state.events}

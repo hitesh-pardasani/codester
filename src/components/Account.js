@@ -191,7 +191,7 @@ class Account extends Component {
                 <button className="moderator_access" onClick={this.modAccess.bind(this)}>Request Moderator Access</button>
                 {this.state.openDialogue ? (
                   <div className="mod-passwd">
-                    <input type="text"
+                    <input type="password"
                       id="moderator_access"
                       placeholder="Enter the moderator key here..."
                       autoComplete="off"

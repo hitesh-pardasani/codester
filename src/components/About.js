@@ -145,11 +145,11 @@ class About extends Component {
         <div className="line" />
         <div className="contain_all">
           <div className="member_1">
-            <img className="photo" alt="parva" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="dhvanee" src={require('./images/dhvanee.jpg')} />
             <div className="line" />
             <div className="name_team">Dhvanee Mehta</div>
             <div className="line" />
-            <div className="work_team">Project Manager</div>
+            <div className="work_team">Project Manager and Developer</div>
           </div>
 
           <div className="member_2">
@@ -157,7 +157,7 @@ class About extends Component {
             <div className="line" />
             <div className="name_team">Parva Patel</div>
             <div className="line" />
-            <div className="work_team">Front-end Developer</div>
+            <div className="work_team">UI designer and Developer</div>
           </div>
 
           <div className="member_3">
@@ -165,47 +165,47 @@ class About extends Component {
             <div className="line" />
             <div className="name_team">Deep Savani</div>
             <div className="line" />
-            <div className="work_team">Database manager and Front-end developer</div>
+            <div className="work_team">Developer</div>
           </div>
 
           <div className="member_4">
-            <img className="photo" alt="hitesh" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="hitesh" src={require('./images/hitesh1.jpg')} />
             <div className="line" />
             <div className="name_team">Hitesh Pardasani</div>
             <div className="line" />
-            <div className="work_team">Back-end Developer</div>
+            <div className="work_team">Developer</div>
           </div>
 
           <div className="member_5">
-            <img className="photo" alt="utsav" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="utsav" src={require('./images/utsav.jpg')} />
             <div className="line" />
             <div className="name_team">Utsav Rajpara</div>
             <div className="line" />
-            <div className="work_team">Back-end Developer</div>
+            <div className="work_team">Developer</div>
           </div>
 
           <div className="member_6">
-            <img className="photo" alt="karan" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="karan" src={require('./images/karan.JPG')} />
             <div className="line" />
             <div className="name_team">Karan Jain</div>
             <div className="line" />
-            <div className="work_team">Back-end Developer</div>
+            <div className="work_team">Developer</div>
           </div>
 
           <div className="member_7">
-            <img className="photo" alt="smit" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="smit" src={require('./images/smit.jpg')} />
             <div className="line" />
             <div className="name_team">Smit Shah</div>
             <div className="line" />
-            <div className="work_team">Back-end Developer</div>
+            <div className="work_team">Developer and tester</div>
           </div>
 
           <div className="member_8">
-            <img className="photo" alt="rutvik" src={require('./images/avatar-big-01.jpg')} />
+            <img className="photo" alt="rutvik" src={require('./images/rutvik.jpg')} />
             <div className="line" />
             <div className="name_team">Rutvik Shah</div>
             <div className="line" />
-            <div className="work_team">Back-end Developer</div>
+            <div className="work_team">ML Developer and tester</div>
           </div>
 
         </div>

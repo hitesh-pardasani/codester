@@ -267,7 +267,7 @@ class dashboard extends Component {
     console.log("func start");
     //var v_handle = document.getElementById('handle').value;
     var url =
-      "http://codeforces.com/api/user.status?handle=" + this.state.cf_handle + "&from=1&count=1000";
+      "https://codeforces.com/api/user.status?handle=" + this.state.cf_handle + "&from=1&count=1000";
     await xhttp.open("GET", url, true);
     xhttp.send();
     this.state.gotdata = true;
