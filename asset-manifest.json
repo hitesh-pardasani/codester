@@ -1,0 +1,21 @@
+{
+  "main.css": "/codester/static/css/main.ea590e78.chunk.css",
+  "main.js": "/codester/static/js/main.3b529260.chunk.js",
+  "main.js.map": "/codester/static/js/main.3b529260.chunk.js.map",
+  "runtime~main.js": "/codester/static/js/runtime~main.b4b94950.js",
+  "runtime~main.js.map": "/codester/static/js/runtime~main.b4b94950.js.map",
+  "static/css/2.b6cb871d.chunk.css": "/codester/static/css/2.b6cb871d.chunk.css",
+  "static/js/2.cd26cc8c.chunk.js": "/codester/static/js/2.cd26cc8c.chunk.js",
+  "static/js/2.cd26cc8c.chunk.js.map": "/codester/static/js/2.cd26cc8c.chunk.js.map",
+  "index.html": "/codester/index.html",
+  "precache-manifest.2d73d2910fec2fd60ccf62b24814b5ca.js": "/codester/precache-manifest.2d73d2910fec2fd60ccf62b24814b5ca.js",
+  "service-worker.js": "/codester/service-worker.js",
+  "static/css/2.b6cb871d.chunk.css.map": "/codester/static/css/2.b6cb871d.chunk.css.map",
+  "static/css/main.ea590e78.chunk.css.map": "/codester/static/css/main.ea590e78.chunk.css.map",
+  "static/media/avatar-big-01.jpg": "/codester/static/media/avatar-big-01.13a2e808.jpg",
+  "static/media/Blog.css": "/codester/static/media/blue.924d72d2.jpg",
+  "static/media/deep.jpg": "/codester/static/media/deep.40f44480.jpg",
+  "static/media/logo.png": "/codester/static/media/logo.536be298.png",
+  "static/media/upvote.png": "/codester/static/media/upvote.e8b69bc5.png",
+  "static/media/upvote_bw.png": "/codester/static/media/upvote_bw.783e5ad3.png"
+}
